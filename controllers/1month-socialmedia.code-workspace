@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "1month",
+			"path": "../../../.."
+		},
+		{
+			"name": "client",
+			"path": "../../client"
+		},
+		{
+			"name": "server",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
